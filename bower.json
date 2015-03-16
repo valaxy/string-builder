@@ -1,0 +1,23 @@
+{
+  "name": "string-builder",
+  "version": "0.0.0",
+  "homepage": "https://github.com/valaxy/string-builder",
+  "authors": [
+    "tianyuzou <valaxy@qq.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sprintf": "~1.0.2"
+  },
+  "devDependencies": {
+    "qunit": "~1.17.1",
+    "requirejs": "~2.1.16"
+  }
+}

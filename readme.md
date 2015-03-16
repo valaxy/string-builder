@@ -1,4 +1,4 @@
-- a **javascript** StringBuilder write in **cmd(common module definition)**
+- a **javascript** StringBuilder write in **AMD/CMD**
 
 ## methods
 - append(strs**)
